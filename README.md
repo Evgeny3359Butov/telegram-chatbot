@@ -75,7 +75,7 @@ cd telegram-chatbot
 python launch.py
 ```
 
-This isn't recommend when you are still working on your "Smart" bot,
+This isn't recommend when you are still working on your chatbot,
 but it's deffenaly recommended when you're done with it.
 
 # Credits
